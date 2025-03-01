@@ -2,9 +2,13 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=CCF7ED&width=435&lines=%F0%9F%91%8B+Hi+there+%F0%9F%91%80+I%E2%80%99m+a+Security+Researcher;Welcome+to+my+world+%F0%9F%91%88(%E2%8C%92%E2%96%BD%E2%8C%92)%F0%9F%91%89..." alt="Typing SVG" /></a>
 </div>
+
 ###
+
 <h1 align="center"></h1>
+
 ###
+
 <div align="center">
   <a href="https://www.youtube.com/@0xcracker" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="youtube logo"  />
@@ -21,7 +25,9 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="medium logo"  />
   </a>
 </div>
+
 ###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="16" />
@@ -61,21 +67,30 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="30" alt="unix logo"  />
 </div>
+
 ###
+
 <div align="center">
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ5bzZnNGRzb2NoZWlpc2U4dGxmN3kyZ294bDNjZm1rbGk4cmtnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif"  />
 </div>
+
 ###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cracker-developer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cracker-developer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=cracker-developer&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=cracker-developer&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
 ###
+
 <img src="https://raw.githubusercontent.com/cracker-developer/cracker-developer/output/snake.svg" alt="Snake animation" />
+
 ###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/cracker-developer/count.svg?"  />
 </div>
+
 ###
