@@ -90,7 +90,10 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/cracker-developer/count.svg" />
+  ![Visitor Count](https://profile-counter.glitch.me/cracker-developer/count.svg)
 </div>
+
+![Visitor Count](https://profile-counter.glitch.me/cracker-developer/count.svg)
+
 
 ###
