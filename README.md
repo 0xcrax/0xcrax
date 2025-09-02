@@ -78,8 +78,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cracker-developer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cracker-developer&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=radical&hide_border=false&order=2" height="300" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=cracker-developer&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cracker-developer&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=radical&hide_border=false&order=2" height="300" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=cracker-developer&theme=dark_dimmed&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
@@ -89,7 +89,6 @@
 snake.yml
 ###
 
-![](https://visitcount.itsvg.in/api?id=cracker-developer&label=Profile%20Views&color=8&icon=5&pretty=true")
-
+[![](https://visitcount.itsvg.in/api?id=rere3333&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ###
