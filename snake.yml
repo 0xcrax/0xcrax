@@ -1,0 +1,38 @@
+name: Generate Snake Game Animation
+
+on:
+  schedule:
+    # Runs every 6 hours to update the animation
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Allows you to manually run the action
+  push:
+    branches:
+      - master # Runs on push to the master branch
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checkout the repository's code
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Step 2: Generate the snake.svg file
+      - name: Generate GitHub Contribution Snake Game
+        uses: Platane/snk@v3
+        with:
+          # This targets YOUR GitHub username
+          github_user_name: cracker-developer 
+          # The output file will be placed in the 'output' directory
+          outputs: |
+            dist/snake.svg
+            dist/snake.gif
+
+      # Step 3: Deploy the generated files back to the repository
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          # This commits the files to a branch named 'output'
+          publish_branch: output
