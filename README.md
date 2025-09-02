@@ -89,6 +89,8 @@
 
 ###
 
-![](https://visitcount.itsvg.in/api?id=rere3333&label=Profile%20Views&color=8&icon=5&pretty=true)
+<div>
+  <img src="https://visitcount.itsvg.in/api?id=cracker-developer&label=Profile%20Views&color=8&icon=5&pretty=true" />
+</div>
 
 ###
