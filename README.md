@@ -90,7 +90,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/cracker-developer/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/cracker-developer/count.svg?" />
 </div>
 
 ###
