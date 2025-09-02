@@ -86,9 +86,9 @@
 ###
 
 <img src="https://raw.githubusercontent.com/cracker-developer/cracker-developer/output/snake.svg" alt="Snake animation" />
-snake.yml
+
 ###
 
-[![](https://visitcount.itsvg.in/api?id=rere3333&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=rere3333&label=Profile%20Views&color=8&icon=5&pretty=true)
 
 ###
