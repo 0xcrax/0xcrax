@@ -22,7 +22,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           # This targets YOUR GitHub username
-          github_user_name: cracker-developer 
+          github_user_name: 0xcrax 
           # The output file will be placed in the 'output' directory
           outputs: |
             dist/snake.svg
