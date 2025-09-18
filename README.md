@@ -76,11 +76,6 @@
 
 ###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=0xcrax&theme=shadow_blue&show_icons=true)
-
-
-###
-
 <img src="https://raw.githubusercontent.com/0xcrax/0xcrax/output/snake.svg" alt="Snake animation" />
 
 ###
