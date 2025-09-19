@@ -70,38 +70,22 @@
 
 ###
 
-<div class="container">
-  <div class="stats-container">
-    <div class="stat-card card1">
-      <img class="github-img" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_blue&hide_border=true&bg_color=00000000" alt="GitHub Stats">
-    </div>        
-    <div class="stat-card card2">
-      <img class="github-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shadow_blue&hide_border=true" alt="Top Languages">
-    </div>
-    <div class="stat-card card3">
-      <img class="github-img" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=shadow_blue&hide_border=true" alt="GitHub Streak">
-    </div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_blue&hide_border=true&bg_color=00000000" alt="GitHub Stats">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shadow_blue&hide_border=true" alt="Top Languages">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=shadow_blue&hide_border=true" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
 
-<style>
-.stats-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 20px; /* spacing between cards */
-  justify-items: center; /* center items in their cells */
-}
-
-.card1, .card2 {
-  width: 100%; /* optional, can control size */
-}
-
-.card3 {
-  grid-column: 1 / span 2; /* makes it span across both columns */
-  display: flex;
-  justify-content: center; /* center the content horizontally */
-}
-</style>
 
 
 ###
