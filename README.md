@@ -5,7 +5,7 @@
 
 <h1 align="center"></h1>
 
-/**/
+/* comments */
 
 <div align="center">
   <a href="https://www.youtube.com/@0xcracker" target="_blank">
