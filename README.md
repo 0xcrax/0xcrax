@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/static/v1?message=Go&logo=go&label=&color=00ADD8&logoColor=white&style=for-the-badge" height="23" alt="Go logo" />
   <img src="https://img.shields.io/static/v1?message=Rust&logo=rust&label=&color=000000&logoColor=white&style=for-the-badge" height="23" alt="Rust logo" />
   <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&style=for-the-badge" height="23" alt="Linux logo" />
-  <img src="https://img.shields.io/static/v1?message=Kali Linux&logo=kalilinux&label=&color=557CBF&logoColor=white&style=for-the-badge" height="23" alt="Kali Linux logo" />
+  <img src="https://img.shields.io/static/v1?message=Kali%20Linux&logo=kalilinux&label=&color=557CBF&logoColor=white&style=for-the-badge" height="23" alt="Kali Linux logo" />
   <img src="https://img.shields.io/static/v1?message=Wireshark&logo=wireshark&label=&color=1C6FE1&logoColor=white&style=for-the-badge" height="23" alt="Wireshark logo" />
   <img src="https://img.shields.io/static/v1?message=Metasploit&logo=metasploit&label=&color=4B0082&logoColor=white&style=for-the-badge" height="23" alt="Metasploit logo" />
   <img src="https://img.shields.io/static/v1?message=Nmap&logo=nmap&label=&color=428BCA&logoColor=white&style=for-the-badge" height="23" alt="Nmap logo" />
