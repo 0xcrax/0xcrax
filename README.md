@@ -25,8 +25,35 @@
   </a>
 </div>
 
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg&logoColor=white)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)  
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557CBF?logo=kalilinux&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/-Wireshark-1C6FE1?logo=wireshark&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/-Metasploit-4B0082?logo=metasploit&logoColor=white)  
+![Nmap](https://img.shields.io/badge/-Nmap-428BCA?logo=nmap&logoColor=white)  
+![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white)
+![Atom](https://img.shields.io/badge/-Atom-66595C?logo=atom&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![PuTTY](https://img.shields.io/badge/-PuTTY-000000?logo=putty&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Unix](https://img.shields.io/badge/-Unix-000000?logo=unix&logoColor=white)
+
 
 
 <div align="center">
@@ -71,25 +98,8 @@
 
 </div>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="30"/>
-</div>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30"/>
-</div>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 
 
