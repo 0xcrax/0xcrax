@@ -70,7 +70,13 @@
 
 ###
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=shadow_blue&hide_border=true)
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_blue&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shadow_blue&hide_border=true&bg_color=00000000" alt="Top Languages" height="150"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=shadow_blue&hide_border=true&background=00000000" alt="GitHub Streak" height="150"/>
+</div>
 
 
 ###
