@@ -70,25 +70,18 @@
 
 ###
 
- <div class="container">
-        <h1>GitHub Statistics</h1>
-        
-        <div class="stats-container">
-            <div class="stat-card">
-                <h2 class="card-title">GitHub Stats</h2>
-                <img class="github-img" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_blue&hide_border=true&bg_color=00000000" alt="GitHub Stats">
-            </div>
-            
-            <div class="stat-card">
-                <h2 class="card-title">Top Languages</h2>
-                <img class="github-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shadow_blue&hide_border=true" alt="Top Languages">
-            </div>
-            
-            <div class="stat-card">
-                <h2 class="card-title">GitHub Streak</h2>
-                <img class="github-img" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=shadow_blue&hide_border=true" alt="GitHub Streak">
-            </div>
-        </div>
+<div class="container">
+  <div class="stats-container">
+    <div class="stat-card">
+      <img class="github-img" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_blue&hide_border=true&bg_color=00000000" alt="GitHub Stats">
+    </div>        
+    <div class="stat-card">
+      <img class="github-img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shadow_blue&hide_border=true" alt="Top Languages">
+    </div>
+    <div class="stat-card">
+      <img class="github-img" src="https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=shadow_blue&hide_border=true" alt="GitHub Streak">
+  </div>
+</div>
 
 
 ###
