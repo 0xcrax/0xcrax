@@ -84,6 +84,7 @@
   </div>
 </div>
 
+<style>
 .stats-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -100,7 +101,7 @@
   display: flex;
   justify-content: center; /* center the content horizontally */
 }
-
+</style>
 
 
 ###
