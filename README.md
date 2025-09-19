@@ -7,18 +7,18 @@
 
 
 <div align="center">
-  <a href="https://www.youtube.com/@0xcracker" target="_blank">
+  <a href="https://www.youtube.com/@0xcrax" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="youtube logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="instagram logo"  />
-  <a href="https://discord.com/users/123456789012345678" target="_blank">
+  <a href="https://discord.com/users/1208475631554396183" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="discord logo"  />
   </a>
   <a href="crackerzeroone@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
-  <a href="https://medium.com/@0xcracker" target="_blank">
+  <a href="https://medium.com/@0xcarx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="medium logo"  />
   </a>
 </div>
