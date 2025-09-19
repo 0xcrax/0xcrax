@@ -25,8 +25,8 @@
   </a>
 </div>
 
-![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg&logoColor=white)
-![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg&logoColor=white)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg&logoColor=white)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg&logoColor=white)
 
 
 <div align="center">
