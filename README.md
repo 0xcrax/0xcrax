@@ -25,64 +25,58 @@
   </a>
 </div>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557CBF?logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1C6FE1?logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/-Metasploit-4B0082?logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-428BCA?logo=nmap&logoColor=white) ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white) ![Atom](https://img.shields.io/badge/-Atom-66595C?logo=atom&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![PuTTY](https://img.shields.io/badge/-PuTTY-000000?logo=putty&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Unix](https://img.shields.io/badge/-Unix-000000?logo=unix&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=E34F26&logoColor=white&style=for-the-badge" height="23" alt="HTML5 logo" />
+  <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&label=&color=1572B6&logoColor=white&style=for-the-badge" height="23" alt="CSS3 logo" />
+  <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&style=for-the-badge" height="23" alt="Python logo" />
+  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&style=for-the-badge" height="23" alt="JavaScript logo" />
+  <img src="https://img.shields.io/static/v1?message=Ruby&logo=ruby&label=&color=CC342D&logoColor=white&style=for-the-badge" height="23" alt="Ruby logo" />
+  <img src="https://img.shields.io/static/v1?message=Go&logo=go&label=&color=00ADD8&logoColor=white&style=for-the-badge" height="23" alt="Go logo" />
+  <img src="https://img.shields.io/static/v1?message=Rust&logo=rust&label=&color=000000&logoColor=white&style=for-the-badge" height="23" alt="Rust logo" />
+  <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&style=for-the-badge" height="23" alt="Linux logo" />
+  <img src="https://img.shields.io/static/v1?message=Kali Linux&logo=kalilinux&label=&color=557CBF&logoColor=white&style=for-the-badge" height="23" alt="Kali Linux logo" />
+  <img src="https://img.shields.io/static/v1?message=Wireshark&logo=wireshark&label=&color=1C6FE1&logoColor=white&style=for-the-badge" height="23" alt="Wireshark logo" />
+  <img src="https://img.shields.io/static/v1?message=Metasploit&logo=metasploit&label=&color=4B0082&logoColor=white&style=for-the-badge" height="23" alt="Metasploit logo" />
+  <img src="https://img.shields.io/static/v1?message=Nmap&logo=nmap&label=&color=428BCA&logoColor=white&style=for-the-badge" height="23" alt="Nmap logo" />
+  <img src="https://img.shields.io/static/v1?message=Apache&logo=apache&label=&color=D22128&logoColor=white&style=for-the-badge" height="23" alt="Apache logo" />
+  <img src="https://img.shields.io/static/v1?message=Atom&logo=atom&label=&color=66595C&logoColor=white&style=for-the-badge" height="23" alt="Atom logo" />
+  <img src="https://img.shields.io/static/v1?message=Bash&logo=gnubash&label=&color=4EAA25&logoColor=white&style=for-the-badge" height="23" alt="Bash logo" />
+  <img src="https://img.shields.io/static/v1?message=C++&logo=cplusplus&label=&color=00599C&logoColor=white&style=for-the-badge" height="23" alt="C++ logo" />
+  <img src="https://img.shields.io/static/v1?message=Debian&logo=debian&label=&color=A81D33&logoColor=white&style=for-the-badge" height="23" alt="Debian logo" />
+  <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&style=for-the-badge" height="23" alt="Docker logo" />
+  <img src="https://img.shields.io/static/v1?message=Flask&logo=flask&label=&color=000000&logoColor=white&style=for-the-badge" height="23" alt="Flask logo" />
+  <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&style=for-the-badge" height="23" alt="Java logo" />
+  <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&style=for-the-badge" height="23" alt="MySQL logo" />
+  <img src="https://img.shields.io/static/v1?message=Oracle&logo=oracle&label=&color=F80000&logoColor=white&style=for-the-badge" height="23" alt="Oracle logo" />
+  <img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=777BB4&logoColor=white&style=for-the-badge" height="23" alt="PHP logo" />
+  <img src="https://img.shields.io/static/v1?message=PuTTY&logo=putty&label=&color=000000&logoColor=white&style=for-the-badge" height="23" alt="PuTTY logo" />
+  <img src="https://img.shields.io/static/v1?message=Redis&logo=redis&label=&color=DC382D&logoColor=white&style=for-the-badge" height="23" alt="Redis logo" />
+  <img src="https://img.shields.io/static/v1?message=Ubuntu&logo=ubuntu&label=&color=E95420&logoColor=white&style=for-the-badge" height="23" alt="Ubuntu logo" />
+  <img src="https://img.shields.io/static/v1?message=Unix&logo=unix&label=&color=000000&logoColor=white&style=for-the-badge" height="23" alt="Unix logo" />
+</div>
 
 
 
 <div align="center">
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="30" alt="atom logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="30" alt="putty logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="30" alt="unix logo" />
-
 </div>
 
 
