@@ -70,24 +70,6 @@
 
 ###
 
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_blue&hide_border=true&bg_color=00000000" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=shadow_blue&hide_border=true&bg_color=00000000" alt="Top Languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=shadow_blue&hide_border=true&background=00000000" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
-</div>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=shadow_blue&hide_border=true)
 
 
