@@ -70,9 +70,11 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ5bzZnNGRzb2NoZWlpc2U4dGxmN3kyZ294bDNjZm1rbGk4cmtnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif"  />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xcrax&show_icons=true&theme=shadow_blue&hide_border=true&bg_color=00000000)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xcrax&layout=compact&theme=shadow_blue&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xcrax&theme=shadow_blue&hide_border=true)
 
 ###
 
