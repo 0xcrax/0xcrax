@@ -91,6 +91,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xcrax&theme=shadow_blue&hide_border=true&background=00000000" alt="GitHub Streak" height="150"/>
 </div>
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- Community hosted fallback mirror for stats -->
+  <img src="https://vercel.app" alt="GitHub Stats" height="150"/>
+  <!-- Community hosted fallback mirror for top languages -->
+  <img src="https://vercel.app" alt="Top Languages" height="150"/>
+</div>
+<div align="center">
+  <!-- Community hosted fallback mirror for streaks -->
+  <img src="https://demolab.com" alt="GitHub Streak" height="150"/>
+</div>
 
 
 <img src="https://raw.githubusercontent.com/0xcrax/0xcrax/output/snake.svg" alt="Snake animation" />
