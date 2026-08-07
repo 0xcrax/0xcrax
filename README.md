@@ -82,8 +82,6 @@
 -->
 
 
-
-
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Successor public network for general profile stats -->
   <img src="https://github-stats-extended.vercel.app/api?username=0xcrax&show_icons=true&theme=shadow_blue&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="150"/>
@@ -91,11 +89,11 @@
   <!-- Successor public network for top language metrics -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xcrax&layout=compact&theme=shadow_blue&hide_border=true&bg_color=00000000" alt="Top Languages" height="150"/>
 </div>
-
-<div align="center" style="margin-top: 20px;">
-  <!-- Stable independent mirror for contribution streak loops -->
-  <img src="https://demolab.com" alt="GitHub Streak" height="150"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xcrax&theme=shadow_blue&hide_border=true&background=00000000" alt="GitHub Streak" height="150"/>
 </div>
+
+
 
 
 <img src="https://raw.githubusercontent.com/0xcrax/0xcrax/output/snake.svg" alt="Snake animation" />
